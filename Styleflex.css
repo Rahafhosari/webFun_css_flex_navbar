@@ -1,0 +1,45 @@
+.center-box {
+width: 800 px;
+height: 200px;
+background-color: #190080;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.center-item {
+    width: 80px;
+    height: 80px;
+background-color: #f9e4b6;
+}
+a{
+    display: inline;
+    align-items: center;
+    flex-wrap: wrap;
+    text-decoration: none;
+    color: white;
+    font-family: Montserrat,Arial, Helvetica, sans-serif;
+}
+#part2{
+    background-color: #6495ed;
+    display: flex;
+    align-items: center;
+}
+#nav-menu {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+
+}
+#dojoicon {
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+}
+#title{
+    color: whitesmoke;
+    display: flex;
+    font-family: Montserrat,Arial, Helvetica, sans-serif;
+
+}
